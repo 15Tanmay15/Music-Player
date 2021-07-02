@@ -50,6 +50,7 @@ body{
     font-size: 30px;
     font-weight: bolder;
     margin-top: 10px;;
+    color: white;
 } 
 /* CSS according to link status */
 #logo-name:active, #logo-name:visited{
